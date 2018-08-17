@@ -1,0 +1,11 @@
+body {
+    background: url("cloudy-day.png") ;
+}
+
+#jTron {
+    background: url("topography.png");
+}
+
+#nFont {
+    font-family: 'M PLUS Rounded 1c', sans-serif;
+}
